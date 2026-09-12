@@ -1,0 +1,1 @@
+Automate Canvas LMS tasks including course setup, assignment creation, grade management, and student notifications.

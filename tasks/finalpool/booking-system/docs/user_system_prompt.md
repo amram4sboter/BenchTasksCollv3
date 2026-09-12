@@ -1,0 +1,1 @@
+Build a booking system using the provided availability calendar. Process reservation requests and send confirmation emails.

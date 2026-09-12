@@ -1,0 +1,1 @@
+Create a booking system from calendar data. Manage availability, process reservations, and generate booking confirmations.

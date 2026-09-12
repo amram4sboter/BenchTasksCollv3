@@ -1,0 +1,1 @@
+Log CRM activities from emails and calendar events. Create an activity summary with interaction types, dates, and outcomes.

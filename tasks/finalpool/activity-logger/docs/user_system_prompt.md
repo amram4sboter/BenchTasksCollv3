@@ -1,0 +1,1 @@
+Process emails and calendar events from the last 7 days. Log all customer interactions and generate an activity summary report.

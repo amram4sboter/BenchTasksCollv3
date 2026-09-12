@@ -1,0 +1,1 @@
+Web assets including images, CSS, JS, and fonts.

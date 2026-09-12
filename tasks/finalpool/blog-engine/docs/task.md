@@ -1,0 +1,1 @@
+Build a blog engine with posts, authors, categories, tags, and publishing workflow. Include SEO features and content management.

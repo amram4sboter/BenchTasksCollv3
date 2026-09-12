@@ -1,0 +1,1 @@
+Merge the provided calendar files, resolve scheduling conflicts, and create a synchronized calendar with all events.

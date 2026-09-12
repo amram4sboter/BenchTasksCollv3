@@ -1,0 +1,1 @@
+Optimize web assets by compressing images, minifying CSS/JS, and generating performance reports.

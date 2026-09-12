@@ -1,0 +1,1 @@
+Synchronize events from multiple calendar sources. Detect conflicts, merge duplicates, and create a unified calendar.
